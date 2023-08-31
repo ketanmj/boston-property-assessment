@@ -1,8 +1,8 @@
 # 1.1 Load libraries
-library(shiny)
-library(shinydashboard)
-library(ggplot2)
-library(dplyr)
+require(shiny)
+require(shinydashboard)
+require(ggplot2)
+require(dplyr)
 
 
 # 1.2 Stop if session is not interactive
