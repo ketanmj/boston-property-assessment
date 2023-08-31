@@ -11,6 +11,7 @@ Dashboard to Display Property Assessment Trends in the City of Boston:
 Commands to run the dashboard app using RStudio console:
 
 library(shiny)
+
 runGitHub('boston-property-assessment', 'ketanmj')
 ---------------------------------------------------------------------
 
